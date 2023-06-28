@@ -1,0 +1,14 @@
+####################
+# APP CONFIG
+####################
+ENV: dev
+
+####################
+# KAFKA CONFIG
+####################
+KAFKA_ENDPOINT: localhost:9092
+
+####################
+# GCS CONFIG
+####################
+GOOGLE_APPLICATION_CREDENTIALS: google-application-credentials.json
